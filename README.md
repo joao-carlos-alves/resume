@@ -1,1 +1,1 @@
-# resume
+Currículo de João Carlos Martins Alves - Fullstack Developer.
